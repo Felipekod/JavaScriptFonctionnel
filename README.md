@@ -1,0 +1,3 @@
+# JavaScriptFonctionnel
+
+Mes exercices de references pour JavaScript, Node, EsNext, jQuery, React, Webpack...
