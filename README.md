@@ -1,3 +1,3 @@
 # JavaScriptFonctionnel
 
-Mes exercices de references pour JavaScript, Node, EsNext, jQuery, React, Webpack...
+Mes exercices de references pour JavaScript rective et fonctionner.
